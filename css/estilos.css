@@ -1,0 +1,29 @@
+.contenedor a{ /*selector combinado*/
+    text-decoration: none; /*elimina el subyrayado*/
+    color: deeppink; /*cambia el color del texto*/
+    font-size: 20px; /*cambia el tamaño del texto a 20 pixeles*/
+    font-weight: bold; /*convierte el texto en negritas*/
+}
+
+h2{
+    color: gold; /*cambia el color del texto*/
+}
+
+p{
+    font-size: 18px; /*cambia el tamaño de la letra a 18 pixeles*/
+    color: indigo; /*cambia el color del texto*/
+}
+
+h3{ 
+    color: orangered; /*cambia el color del texto*/
+    text-align: center; /*centra el texto*/
+}
+
+.contenedor2 p{
+    color: chocolate; /*cambia el color del texto*/
+}
+
+.contenedor2 a{
+    color: cornflowerblue; /*cambia el color del texto*/
+    text-decoration: none; /*elimina el subrayado*/
+}
